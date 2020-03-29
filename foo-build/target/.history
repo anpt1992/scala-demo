@@ -1,0 +1,23 @@
+compile
+run
+scalaVersion
+session save
+reload
+test
+sbt:Hello> ~testQuick
+ ~testQuick
+reload
+console
+reload
+projects
+helloCore/compile
+reload
+~testQuick
+reload
+run
+reload
+dist
+cd /mnt/c/ScalaProject/WSL/foo-build/target/universal/
+Docker/publishLocal
+last Docker / publishLocal
+Docker/publishLocal
