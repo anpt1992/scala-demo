@@ -21,3 +21,15 @@ cd /mnt/c/ScalaProject/WSL/foo-build/target/universal/
 Docker/publishLocal
 last Docker / publishLocal
 Docker/publishLocal
+run
+reload
+compile
+reload
+compile
+reload
+compile
+reload
+compile
+run
+compile
+run
